@@ -1,7 +1,4 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
 import Card from "./components/Card";
 import Data from "./components/data";
 import Traveldata from "./components/Traveldata";
